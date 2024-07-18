@@ -8,7 +8,7 @@ Currency Data retrieved via API from: [ExchangeRate-API](https://www.exchangerat
 Country Data web-scraped from: [IBAN.com](https://www.iban.com/currency-codes)
 
 ### Business Problem
-An online store loacted in the UK is aiming to expand its customer base beyond the bordes of the UK. In order to achieve this, the company wants to optimize their online advertisements. As some sales data for non-UK orders exists, this data is used to define the optimal ad placements.
+An online store loacted in the UK is aiming to expand its customer base beyond the bordes of the UK. In order to achieve this, the company wants to optimize their online advertising. As some sales data for non-UK orders exists, this data is used to define the optimal ad placements.
 
 ### Objectives
 - Identify top 5 non-UK countries with the highest revenues
