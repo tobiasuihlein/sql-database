@@ -14,7 +14,6 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 - Identify top 5 non-UK countries with the highest revenues
 - Define top selling items for the top 5 countries
 - Calculate unit price in local currency for the top 5 countries
-- (Optional: compare seasonal sales numbers for top selling items in top 5 countries)
 
 ### Database
 
