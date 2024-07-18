@@ -1,4 +1,4 @@
-## Analyse Sales of UK-based Online Shop
+## Sales Analysis for UK-based Online Shop
 Ironhack Week 4 SQL Project<br>
 by Reetu & Tobias
 
