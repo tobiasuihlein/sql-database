@@ -18,6 +18,8 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 ### Database
 
+#### Entity Relationship Diagram
+
 ### Results
 
 #### Top 5 Non-UK Countries
