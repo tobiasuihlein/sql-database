@@ -19,13 +19,18 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 #### Entity Relationship Diagram
 
+![ERD](img/ERD.svg)
+
 ### Results
 
-#### Top 5 Non-UK Countries
+#### Top 10 Non-UK Countries
+![top countries](img/obj1.png)
 
 #### Top Selling Items
+![top items](img/obj2.png)
 
 #### Unit Price in Local Currency
+![currency table](img/obj3.png)
 
 ### Summary
 
