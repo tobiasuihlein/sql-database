@@ -42,4 +42,7 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
   * Identified the top 10 non-UK countries with the highest sales revenue.
   * Determined the highest-selling items in these top countries.
   * Calculated the prices of these items in local currencies, facilitating marketing strategies  with local vendors to maintain competitive pricing.
+ <br>
+
+Country Data web-scraped from: [Link to Presentation](https://docs.google.com/presentation/d/1KHMgHWfQ5uZsA9HIF6PASlYT1JzYIIiTCUx7vPKSMnU/edit?usp=sharing)
 
