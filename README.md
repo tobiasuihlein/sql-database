@@ -19,7 +19,7 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 #### Entity Relationship Diagram
 
-![ERD](img/ERD.svg)
+![ERD](img/erd.png)
 
 ### Results
 
