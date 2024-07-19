@@ -34,3 +34,12 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 ### Summary
 
+* Collected data from multiple sources.
+* Populated tables of MySQL SCHEMA with data imported from Data Frames using a Python notebook.
+* Executed table joins and other operations as per project objectives.
+* Exported the resulting tables back to the Python notebook for further analysis.
+* Conducted Exploratory Data Analysis (EDA): 
+  * Identified the top 10 non-UK countries with the highest sales revenue.
+  * Determined the highest-selling items in these top countries.
+  * Calculated the prices of these items in local currencies, facilitating marketing strategies  with local vendors to maintain competitive pricing.
+
