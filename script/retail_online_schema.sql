@@ -9,14 +9,15 @@ CREATE TABLE currencies (
 
 CREATE TABLE countries (
     country VARCHAR(250) PRIMARY KEY,
-    currency_code VARCHAR(50)
+    currency_code VARCHAR(50),
+    FOREIGN KEY (currency_code) REFERENCES currencies(currency_code)
 );
 
 CREATE TABLE customers (
 	customer_id VARCHAR(50) PRIMARY KEY, 
-    country VARCHAR(20)
+    country VARCHAR(20),
+    FOREIGN KEY (country) REFERENCES countries(country)
 );
-
 CREATE TABLE items (
     item_id VARCHAR(50) PRIMARY KEY,
     price_in_GBP DECIMAL(15, 2),

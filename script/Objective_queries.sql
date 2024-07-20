@@ -10,6 +10,7 @@ c.country
 ORDER BY
 total_revenue DESC
 LIMIT 10;
+
 -- Objective 2--
 USE retail_online;
 WITH TopCountries AS (
