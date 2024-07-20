@@ -2,6 +2,10 @@
 Ironhack Week 4 SQL Project<br>
 by Reetu & Tobias
 
+### Project Plan
+
+![Project plan](logical_model_sql_project.jpg)
+
 ### Data
 Sales Data taken from: [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)<br>
 Currency Data retrieved via API from: [ExchangeRate-API](https://www.exchangerate-api.com/)<br>
@@ -19,7 +23,7 @@ An online store loacted in the UK is aiming to expand its customer base beyond t
 
 #### Entity Relationship Diagram
 
-![ERD](img/erd.png)
+![ERD](E-R diagram.png)
 
 ### Results
 
